@@ -36,13 +36,13 @@ Visual Basic / Visual Studio 2013
 Technology previews of the .NET Compiler Platform (“Roslyn”)
 
 Visual Basic / Visual Studio 2012
-`Async` and `await` keywords, iterators, caller info attributes
+`Async` and `Await` keywords, iterators, caller info attributes
 
 Visual Basic, Visual Studio 2010
 Auto-implemented properties, collection initializers, implicit line continuation, dynamic, generic co/contra variance, global namespace access
 
 Visual Basic / Visual Studio 2008
-Language Integrated Query (LINQ), XML literals, local type inference, object initializers, anonymous types, extension methods, local `var` type inference, lambda expressions, `if` operator, partial methods, nullable value types
+Language Integrated Query (LINQ), XML literals, local type inference, object initializers, anonymous types, extension methods, local variable type inference, lambda expressions, `if` operator, partial methods, nullable value types
 
 Visual Basic / Visual Studio 2005
 The `My` type and helper types (access to app, computer, files system, network)
